@@ -1,0 +1,19 @@
+{
+  "name": "du-advertisement",
+  "version": "1.0.0",
+  "description": "A repository of websites that are used inside Dual Universe.",
+  "main": "index.js",
+  "scripts": {
+    "build": "powershell -command ./generate.ps1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kuboczoch/du-advertisement.git"
+  },
+  "author": "Kuboczoch",
+  "license": "SATA",
+  "bugs": {
+    "url": "https://github.com/Kuboczoch/du-advertisement/issues"
+  },
+  "homepage": "https://github.com/Kuboczoch/du-advertisement#readme"
+}
