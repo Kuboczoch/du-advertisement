@@ -1,0 +1,21 @@
+.table-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-row-gap: 15px;
+  margin-top: 15px;
+
+  >.record {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 10px;
+    height: 100px;
+
+    .text {
+      display: flex;
+      color: #ffffff;
+      align-items: center;
+      justify-content: flex-start;
+      font-size: 30px;
+    }
+  }
+}
