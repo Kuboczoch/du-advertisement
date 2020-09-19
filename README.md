@@ -1,4 +1,4 @@
-# Du-Advertisement
+# Du-Screens
 A repository of websites that are used inside Dual Universe.
 
 The main goal of this repository is to provide a nice environment for developers,
