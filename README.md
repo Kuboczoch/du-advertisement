@@ -12,3 +12,6 @@ To compile:
     * it will generate single html page from multiple files
 * every website inside this project: we created a script [generate.ps1](./generate.ps1)
     * it will generate every website with compiled sass files to their directories
+
+## Websites
+* [storage graph](./websites/storage-graph) - A series of circle graphs that can display current volume in containers
